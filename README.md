@@ -1,0 +1,2 @@
+# MatheArtic
+Julia Sets
